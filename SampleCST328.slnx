@@ -1,0 +1,8 @@
+<Solution>
+  <Project Path="CST328/CST328.nfproj" Type="11a8dd76-328b-46df-9f39-f559912d0360">
+    <Deploy />
+  </Project>
+  <Project Path="SampleCST328/SampleCST328.nfproj" Type="11a8dd76-328b-46df-9f39-f559912d0360">
+    <Deploy />
+  </Project>
+</Solution>
